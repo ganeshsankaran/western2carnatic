@@ -6,7 +6,7 @@ I may or may not work on
 - annotating notes with their octave
 - annotating chords
 - writing Carnatic notation to `stdout`
-- 
+
 **Prerequisites**
 - Python 3
 - MuseScore
