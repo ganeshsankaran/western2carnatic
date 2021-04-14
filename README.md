@@ -1,6 +1,6 @@
 # western2carnatic
 
-This program takes a MusicXML (.mxl or .musicxml) score and annotates it with Carnatic notes.
+This program takes a score and annotates it with Carnatic notes.
 
 I may or may not work on
 - annotating notes with their octave

@@ -1,8 +1,8 @@
 import sys
 from music21 import *
 
-# parse MusicXML file
-stream = converter.parse(sys.argv[1], format='musicxml')
+# parse file
+stream = converter.parse(sys.argv[1])
 
 # get key
 key = stream.analyze('key')
